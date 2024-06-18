@@ -1,6 +1,6 @@
 # Hey, this is SCAR 👋
 
-![SCAR](/assets/scar.webp)
+![SCAR](/profile/assets/scar.webp)
 
 **SCAR**, **S**mart **C**ontract **A**cademic **Registry** is a [blockchain](https://en.wikipedia.org/wiki/Blockchain) approach to [academic certificates verification](https://link-to-the-future-article). It is focused on the development of a decentralized application that allows the verification of academic certificates by a third party in a secure and transparent way. The project is developed using the **Ethereum** blockchain.
 
