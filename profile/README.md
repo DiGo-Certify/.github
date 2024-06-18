@@ -10,7 +10,6 @@ As part of the project, we are developing an article that will be published in t
 
 
 ## Approaches and Technologies 🛠️
-
 The project is developed using the following:
 
 - [🔗 Blockchain](https://en.wikipedia.org/wiki/Blockchain)
